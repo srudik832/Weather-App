@@ -24,4 +24,4 @@ A modern, high-performance Weather Application built with **Jetpack Compose** an
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/srudik832/WeatherAppPro.git](https://github.com/srudik832/WeatherAppPro.git)
+    git clone https://github.com/srudik832/Weather-App.git
